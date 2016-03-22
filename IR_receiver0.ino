@@ -1,3 +1,7 @@
+//#include <IRremote.h>
+//#include <IRremoteInt.h>
+
+
 #include <IRremote.h>
 
 int RECV_PIN = 2; // 使用數位腳位2接收紅外線訊號
