@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 #include <CppList.h>
+=======
+//#include <IRremote.h>
+//#include <IRremoteInt.h>
+
+>>>>>>> fddc0351573d94acbca705c2987e5e5190dfd50a
 
 #include <IRremote.h>
 
